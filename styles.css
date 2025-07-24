@@ -1,0 +1,68 @@
+/* General Page Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    padding: 50px;
+    color: #fff;
+}
+
+/* Main Container */
+.container {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    border-radius: 10px;
+    width: 40%;
+    margin: auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Title */
+.title {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px; /* Adjust spacing below the title */
+}
+
+input[type="file"] {
+    margin: 15px 0;
+}
+
+
+/* Upload Button */
+.upload-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 20px;
+    font-size: 16px;
+    color: white;
+    background: #2c6e49;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.upload-btn:hover {
+    background: #1f5035;
+}
+
+/* Prediction Result */
+#predictionResult {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}

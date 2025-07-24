@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicinal Plant Identification</title>
+        <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+
+</head>
+<body>
+
+    <h2 class="title">Upload an Image to Identify the Plant</h2>
+
+<div class="upload-container">
+    <label for="fileInput">Choose an image:</label>
+    <input type="file" id="fileInput">
+    <button onclick="uploadImage()">Upload and Predict</button>
+</div>
+
+    <!-- Corrected ID -->
+    <h3 id="predictionResult"></h3>
+
+    <script>
+function uploadImage() {
+    let fileInput = document.getElementById("fileInput");
+    
+    if (!fileInput || !fileInput.files.length) {
+        alert("Please select an image first!");
+        return;
+    }
+
+    let file = fileInput.files[0];
+    let formData = new FormData();
+    formData.append("file", file);
+
+    fetch("http://127.0.0.1:5000/upload", {
+        method: "POST",
+        body: formData
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.error) {
+            alert("Error: " + data.error);
+        } else {
+            document.getElementById("predictionResult").textContent =
+                `Predicted Plant: ${data.prediction} (Confidence: ${data.confidence}%)`;
+        }
+    })
+    .catch(error => console.error("Error:", error));
+}
+
+    </script>
+</body>
+</html>
