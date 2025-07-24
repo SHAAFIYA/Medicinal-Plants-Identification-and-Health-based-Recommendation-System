@@ -1,0 +1,470 @@
+{
+  "Amla (நெல்லிக்காய் இலை)": {
+    "benefits": [
+      "Boosts immunity and digestion",
+      "Rich in Vitamin C and antioxidants",
+      "Improves hair and skin health",
+      "Regulates blood sugar levels",
+      "Supports heart health"
+    ]
+  },
+  "Curry (கருவேப்பிலை)": {
+    "benefits": [
+      "Promotes hair growth and prevents greying",
+      "Aids digestion and reduces nausea",
+      "Controls diabetes and lowers cholesterol",
+      "Has antibacterial and antifungal properties",
+      "Improves memory and brain function"
+    ]
+  },
+  "Betel (வெற்றிலை )": {
+    "benefits": [
+      "Improves digestion and gut health",
+      "Helps in treating cough and cold",
+      "Reduces respiratory disorders",
+      "Acts as a natural mouth freshener",
+      "Has anti-inflammatory properties"
+    ]
+  },
+  "Bamboo (மூங்கில் இலை)": {
+    "benefits": [
+      "Supports bone and joint health",
+      "Helps in detoxification",
+      "Promotes healthy hair and skin",
+      "Strengthens immune system",
+      "Aids digestion and metabolism"
+    ]
+  },
+  "Palak(Spinach) (பசலைக் கீரை)": {
+    "benefits": [
+      "Rich in iron, prevents anemia",
+      "Boosts eyesight and brain function",
+      "Regulates blood pressure",
+      "Enhances muscle strength",
+      "Supports digestion and gut health"
+    ]
+  },
+  "Coriender (கொத்தமல்லி)": {
+    "benefits": [
+      "Supports digestion and gut health",
+      "Lowers blood sugar levels",
+      "Rich in antioxidants",
+      "Promotes heart health",
+      "Has antibacterial and antifungal properties"
+    ]
+  },
+  "Ashoka (அசோக்க மர இலை)": {
+    "benefits": [
+      "Used in gynecological disorders",
+      "Improves skin complexion",
+      "Reduces stress and anxiety",
+      "Supports heart health",
+      "Aids in treating arthritis and joint pain"
+    ]
+  },
+  "Seethapala (சீதாப்பழ இலை)": {
+    "benefits": [
+      "Rich in Vitamin C, boosts immunity",
+      "Helps regulate blood sugar levels",
+      "Aids digestion and relieves constipation",
+      "Supports heart health",
+      "Promotes healthy skin and hair"
+    ]
+  },
+ "Lemon_grass (தேசிப்புல்)": {
+    "benefits": [
+      "Boosts immunity and fights infections",
+      "Aids digestion and relieves bloating",
+      "Helps in weight loss",
+      "Reduces anxiety and improves sleep",
+      "Detoxifies the body"
+    ]
+  },
+"Pappaya (பப்பாளி இலை)": {
+    "benefits": [
+      "Rich in enzymes aiding digestion",
+      "Supports immune system",
+      "Good for skin and hair",
+      "Regulates blood sugar levels",
+      "Promotes heart health"
+    ]
+  },
+"Curry_Leaf (கருவேப்பிலை)": {
+    "benefits": [
+      "Promotes hair growth and prevents greying",
+      "Aids digestion and reduces nausea",
+      "Controls diabetes and lowers cholesterol",
+      "Has antibacterial and antifungal properties",
+      "Improves memory and brain function"
+    ]
+  },
+"Lemon (எலுமிச்சை இலை)": {
+    "benefits": [
+      "Boosts digestion and detoxifies the body",
+      "Rich in Vitamin C, improves immunity",
+      "Supports weight loss",
+      "Helps in maintaining skin health",
+      "Regulates blood pressure"
+    ]
+  },
+"Nooni (வெண்நுணா இலை)": {
+    "benefits": [
+      "Boosts immunity and overall health",
+      "Has anti-inflammatory properties",
+      "Aids in digestion and gut health",
+      "Supports cardiovascular health",
+      "Helps in reducing stress and anxiety"
+    ]
+  },
+"Henna (மருதாணி இலை)": {
+    "benefits": [
+      "Promotes hair growth and scalp health",
+      "Cools the body and reduces fever",
+      "Helps in wound healing",
+      "Supports healthy skin",
+      "Used in natural dyeing and conditioning"
+    ]
+  },
+  "Mango (மா இலை)": {
+    "benefits": [
+      "Regulates blood sugar levels",
+      "Improves digestion and gut health",
+      "Rich in antioxidants",
+      "Supports immune function",
+      "Promotes heart health"
+    ]
+  },
+  "Doddpathre (கர்பூரவள்ளி இலை)": {
+    "benefits": [
+      "Relieves cold and cough",
+      "Supports respiratory health",
+      "Aids digestion",
+      "Has antibacterial properties",
+      "Boosts immunity"
+    ]
+  },
+  "Amruta_Balli (அமிர்தவல்லி இலை)": {
+    "benefits": [
+      "Supports liver health",
+      "Boosts immunity",
+      "Helps in managing diabetes",
+      "Promotes digestion",
+      "Has anti-inflammatory properties"
+    ]
+  },
+  "Betel_Nut (பாக்கு இலை)": {
+    "benefits": [
+      "Improves digestion",
+      "Acts as a mild stimulant",
+      "Supports oral health",
+      "Helps in treating worm infections",
+      "Boosts energy levels"
+    ]
+  },
+"Tulsi (துளசி)": {
+    "benefits": [
+      "Boosts immunity and fights infections",
+      "Helps relieve respiratory disorders",
+      "Reduces stress and anxiety",
+      "Promotes heart health",
+      "Supports digestion and gut health"
+    ]
+  },
+  "Pomegranate (மாதுளம் இலை)": {
+    "benefits": [
+      "Rich in antioxidants",
+      "Supports heart health",
+      "Aids digestion",
+      "Boosts immunity",
+      "Helps in reducing inflammation"
+    ]
+  },
+"Castor (ஆமணக்கு இலை)": {
+    "benefits": [
+      "Helps relieve joint pain",
+      "Aids in detoxification",
+      "Supports hair growth",
+      "Acts as a natural laxative",
+      "Reduces inflammation"
+    ]
+  },
+  "Jackfruit (பலா இலை)": {
+    "benefits": [
+      "Supports digestion and gut health",
+      "Rich in antioxidants",
+      "Boosts immune system",
+      "Helps regulate blood sugar levels",
+      "Promotes heart health"
+    ]
+  },
+  "Insulin (இன்சுலின் இலை)": {
+    "benefits": [
+      "Helps regulate blood sugar levels",
+      "Supports pancreatic health",
+      "Aids digestion",
+      "Boosts metabolism",
+      "Rich in antioxidants"
+    ]
+  },
+"Pepper (மிளகு இலை)": {
+    "benefits": [
+      "Improves digestion and metabolism",
+      "Has strong antibacterial properties",
+      "Relieves cold and cough",
+      "Supports respiratory health",
+      "Rich in antioxidants"
+    ]
+  },
+"Raktachandini (செஞ்சந்தன இலை)": {
+    "benefits": [
+      "Supports blood circulation and heart health",
+      "Has antibacterial and antifungal properties",
+      "Aids in skin healing and wound care",
+      "Helps manage blood sugar levels",
+      "Reduces inflammation and joint pain"
+    ]
+  },
+"Aloevera (கற்றாழை)": {
+    "benefits": [
+      "Soothes skin burns and irritations",
+      "Supports digestion and relieves constipation",
+      "Boosts immunity",
+      "Promotes hair growth",
+      "Helps control blood sugar levels"
+    ]
+  },
+"Jasmine (மல்லிகை இலை)": {
+    "benefits": [
+      "Promotes relaxation and reduces stress",
+      "Supports digestive health",
+      "Has anti-inflammatory properties",
+      "Boosts immunity",
+      "Helps improve skin health"
+    ]
+  },
+"Doddapatre (கர்ப்பூரவள்ளி இலை)": {
+    "benefits": [
+      "Helps relieve cold, cough, and respiratory issues",
+      "Aids digestion and relieves acidity",
+      "Has antibacterial and antifungal properties",
+      "Supports skin health and wound healing",
+      "Boosts immunity and overall wellness"
+    ]
+  },
+  "Neem (வேம்பு இலை)": {
+    "benefits": [
+      "Acts as a natural blood purifier",
+      "Boosts skin health and prevents acne",
+      "Has strong antibacterial and antifungal properties",
+      "Supports oral health and prevents gum diseases",
+      "Aids in liver detoxification"
+    ]
+  },
+ "Geranium (ஜெரனியம் இலை)": {
+    "benefits": [
+      "Has antibacterial and antifungal properties",
+      "Supports skin health",
+      "Aids in stress relief",
+      "Promotes wound healing",
+      "Boosts digestion"
+    ]
+  },
+  "Rose (ரோஜா இலை)": {
+    "benefits": [
+      "Rich in antioxidants",
+      "Supports skin hydration and health",
+      "Aids digestion",
+      "Boosts mood and reduces stress",
+      "Promotes heart health"
+    ]
+  },
+  "Gauva (கொய்யா இலை)": {
+    "benefits": [
+      "Supports digestion and relieves diarrhea",
+      "Rich in antioxidants and vitamins",
+      "Helps in weight management",
+      "Boosts immunity",
+      "Improves heart health"
+    ]
+  },
+  "Hibiscus (செம்பருத்தி இலை)": {
+    "benefits": [
+      "Regulates blood pressure",
+      "Promotes hair growth and prevents dandruff",
+      "Supports liver health",
+      "Boosts digestion",
+      "Enhances skin health"
+    ]
+  },
+"Nithyapushpa (நித்யபுஷ்பா இலை)": {
+    "benefits": [
+      "Helps reduce inflammation",
+      "Supports skin health",
+      "Aids digestion",
+      "Promotes relaxation",
+      "Boosts immune function"
+    ]
+  },
+"Wood_sorel (குறிஞ்சி இலை)": {
+    "benefits": [
+      "Rich in vitamin C and antioxidants",
+      "Aids digestion and relieves stomach issues",
+      "Supports liver health",
+      "Has anti-inflammatory properties",
+      "Helps in treating skin disorders"
+    ]
+  },
+  "Tamarind (புளி இலை)": {
+    "benefits": [
+      "Aids digestion and relieves constipation",
+      "Rich in antioxidants and vitamin C",
+      "Supports heart health",
+      "Boosts immunity",
+      "Helps in detoxification"
+    ]
+  },
+"Guava (கொய்யா இலை)": {
+    "benefits": [
+      "Supports digestion and relieves diarrhea",
+      "Rich in antioxidants and vitamins",
+      "Helps in weight management",
+      "Boosts immunity",
+      "Improves heart health"
+    ]
+  },
+"Bhrami (வல்லாரை கீரை)": {
+    "benefits": [
+      "Enhances memory and brain function",
+      "Reduces stress and anxiety",
+      "Boosts immunity",
+      "Supports skin health",
+      "Helps in managing diabetes"
+    ]
+  },
+"Sapota (சப்போட்டா இலை)": {
+    "benefits": [
+      "Supports digestion and gut health",
+      "Rich in antioxidants",
+      "Promotes heart health",
+      "Strengthens immunity",
+      "Aids in bone health"
+    ]
+  },
+  "Basale (பசலை இலை)": {
+    "benefits": [
+      "Improves digestion",
+      "Rich in iron and prevents anemia",
+      "Boosts immune function",
+      "Supports bone health",
+      "Enhances skin glow and health"
+    ]
+  },
+  "Avacado (ஆனைக்கொய்யா இலை)": {
+    "benefits": [
+      "Supports heart health",
+      "Rich in healthy fats and vitamins",
+      "Aids digestion and gut health",
+      "Helps in weight management",
+      "Improves skin and hair quality"
+    ]
+  },
+  "Ashwagandha (அஸ்வகந்தா இலை)": {
+    "benefits": [
+      "Reduces stress and anxiety",
+      "Boosts brain function and memory",
+      "Improves stamina and energy levels",
+      "Supports immune function",
+      "Enhances muscle growth and recovery"
+    ]
+  },
+  "Nagadali (நாகதாளி இலை)": {
+    "benefits": [
+      "Supports liver detoxification",
+      "Aids in digestion",
+      "Has antibacterial properties",
+      "Helps in reducing joint pain",
+      "Improves respiratory health"
+    ]
+  },
+  "Arali (அரளி இலை)": {
+    "benefits": [
+      "Used in traditional medicine for skin diseases",
+      "Supports respiratory health",
+      "Has strong antibacterial properties",
+      "Helps in treating wounds",
+      "Aids digestion"
+    ]
+  },
+  "Ekka (எருக்கு இலை)": {
+    "benefits": [
+      "Boosts immune system",
+      "Rich in antioxidants",
+      "Supports skin health",
+      "Helps reduce inflammation",
+      "Aids in treating joint pain"
+    ]
+  },
+  "Ganike (மணத்தக்காளி கீரை)": {
+    "benefits": [
+      "Supports digestion",
+      "Improves skin health",
+      "Rich in antioxidants",
+      "Boosts immunity",
+      "Helps in treating wounds"
+    ]
+  },
+"Tulasi (துளசி)": {
+    "benefits": [
+      "Boosts immunity and fights infections",
+      "Supports respiratory health",
+      "Reduces stress and anxiety",
+      "Has antibacterial and antifungal properties",
+      "Improves digestion"
+    ]
+  },
+  "Honge (புங்கம் இலை)": {
+    "benefits": [
+      "Has antifungal and antibacterial properties",
+      "Supports skin healing and treatment",
+      "Aids in digestion",
+      "Helps relieve joint pain",
+      "Boosts immune function"
+    ]
+  },
+  "Mint (புதினா)": {
+    "benefits": [
+      "Aids digestion and relieves bloating",
+      "Reduces nausea and headaches",
+      "Has antibacterial properties",
+      "Supports oral health",
+      "Helps with respiratory issues"
+    ]
+  },
+  "Catharanthus (நித்திய கற்பூரம் இலை)": {
+    "benefits": [
+      "Supports heart health",
+      "Helps in managing diabetes",
+      "Boosts immune function",
+      "Aids in digestion",
+      "Has strong antibacterial properties"
+    ]
+  },
+"Papaya (பப்பாளி இலை)": {
+    "benefits": [
+      "Rich in enzymes aiding digestion",
+      "Supports immune system",
+      "Good for skin and hair",
+      "Regulates blood sugar levels",
+      "Promotes heart health"
+    ]
+  },
+"Brahmi (வல்லாரை கீரை)": {
+    "benefits": [
+      "Enhances memory and brain function",
+      "Reduces stress and anxiety",
+      "Boosts immunity",
+      "Supports skin health",
+      "Helps in managing diabetes"
+    ]
+  }
+}

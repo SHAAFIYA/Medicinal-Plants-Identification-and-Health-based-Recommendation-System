@@ -1,0 +1,1597 @@
+{
+    "health_issues": [
+        {
+            "name": "Common Cold",
+            "remedy": [
+                "Boil 1 teaspoon of dried tulsi (holy basil) leaves in a cup of water.",
+                "Add a small piece of ginger and let it steep for 5 minutes.",
+                "Strain the tea and mix in 1 teaspoon of honey and a few drops of lemon juice.",
+                "Drink this tea twice a day to relieve cold symptoms."
+            ]
+        },
+        {
+            "name": "Acid Reflux",
+            "remedy": [
+                "Mix 1 tablespoon of aloe vera gel with a cup of lukewarm water.",
+                "Drink this on an empty stomach to soothe acid reflux.",
+                "Alternatively, chew 4-5 fresh basil leaves after meals to reduce acidity."
+            ]
+        },
+        {
+            "name": "Headache",
+            "remedy": [
+                "Crush a few fresh peppermint leaves and apply the juice to the temples.",
+                "Massage gently for 5-10 minutes to relieve tension headaches.",
+                "Alternatively, brew a cup of chamomile tea and sip slowly for relaxation."
+            ]
+        },
+        {
+            "name": "Indigestion",
+            "remedy": [
+                "Chew 1 teaspoon of fennel seeds after meals to aid digestion.",
+                "Prepare a tea using 1 teaspoon of dried peppermint leaves in hot water.",
+                "Drink this tea twice daily to relieve bloating and indigestion."
+            ]
+        },
+        {
+            "name": "Sore Throat",
+            "remedy": [
+                "Boil 1 teaspoon of turmeric powder in a glass of warm milk.",
+                "Add 1 teaspoon of honey and drink before bedtime.",
+                "Alternatively, gargle with warm salt water infused with crushed tulsi leaves."
+            ]
+        },
+        {
+            "name": "Cough",
+            "remedy": [
+                "Extract fresh juice from basil leaves and mix it with a teaspoon of honey.",
+                "Consume this mixture twice a day to soothe a cough.",
+                "Alternatively, drink warm ginger tea with a few drops of lemon juice."
+            ]
+        },
+        {
+            "name": "Fever",
+            "remedy": [
+                "Boil a few neem leaves in water and let it cool.",
+                "Drink this neem-infused water to help reduce fever naturally.",
+                "Alternatively, prepare a tea with giloy (Tinospora cordifolia) stem and drink twice a day."
+            ]
+        },
+        {
+            "name": "Constipation",
+            "remedy": [
+                "Soak 1 tablespoon of flaxseeds in water overnight.",
+                "Drink the water and consume the seeds in the morning on an empty stomach.",
+                "Alternatively, consume 1 teaspoon of triphala powder with warm water before bed."
+            ]
+        },
+        {
+            "name": "Diarrhea",
+            "remedy": [
+                "Mix 1 teaspoon of dried guava leaves powder with a glass of warm water.",
+                "Drink this once a day to control diarrhea.",
+                "Alternatively, chew fresh pomegranate leaves or drink pomegranate juice."
+            ]
+        },
+        {
+            "name": "Insomnia",
+            "remedy": [
+                "Boil 1 teaspoon of dried ashwagandha root in a cup of milk.",
+                "Drink this warm milk before bedtime to improve sleep quality.",
+                "Alternatively, brew a tea with dried valerian root and drink before bed."
+            ]
+        },
+        {
+            "name": "Anemia",
+            "remedy": [
+                "Soak 1 tablespoon of fenugreek seeds overnight in water.",
+                "In the morning, consume the seeds along with the water on an empty stomach.",
+                "Drink beetroot and spinach juice daily to boost iron levels."
+            ]
+        },
+        {
+            "name": "Arthritis",
+            "remedy": [
+                "Mix 1 teaspoon of turmeric powder in a glass of warm milk.",
+                "Drink this daily to reduce joint inflammation.",
+                "Apply a paste of crushed ginger and mustard oil to the affected joints for pain relief."
+            ]
+        },
+        {
+            "name": "Back Pain",
+            "remedy": [
+                "Massage the affected area with warm eucalyptus or castor oil.",
+                "Drink ginger tea twice a day to reduce inflammation.",
+                "Soak fenugreek seeds overnight and consume them in the morning for pain relief."
+            ]
+        },
+        {
+            "name": "Dandruff",
+            "remedy": [
+                "Massage fresh aloe vera gel into the scalp and leave for 30 minutes before rinsing.",
+                "Mix neem leaf paste with coconut oil and apply to the scalp.",
+                "Rinse hair with boiled and cooled rosemary-infused water after washing."
+            ]
+        },
+        {
+            "name": "Skin Rashes",
+            "remedy": [
+                "Apply a paste of fresh neem leaves and turmeric to the affected area.",
+                "Use aloe vera gel directly on the skin to reduce irritation and redness.",
+                "Drink coriander juice to purify the blood and prevent rashes."
+            ]
+        },
+        {
+            "name": "Asthma",
+            "remedy": [
+                "Boil 5-6 basil leaves and a small piece of ginger in water.",
+                "Strain and drink the tea twice a day to clear the respiratory tract.",
+                "Chew 4-5 black peppercorns mixed with honey for relief."
+            ]
+        },
+        {
+            "name": "High Blood Pressure",
+            "remedy": [
+                "Drink a glass of fresh beetroot juice daily to regulate blood pressure.",
+                "Consume garlic cloves on an empty stomach for improved circulation.",
+                "Drink hibiscus tea twice daily to lower blood pressure naturally."
+            ]
+        },
+        {
+            "name": "Low Blood Pressure",
+            "remedy": [
+                "Drink a cup of fresh basil leaf juice with honey in the morning.",
+                "Consume a pinch of salt with lukewarm water to raise blood pressure quickly.",
+                "Drink rosemary tea regularly to help maintain stable blood pressure."
+            ]
+        },
+        {
+            "name": "Sinusitis",
+            "remedy": [
+                "Inhale steam from hot water infused with eucalyptus oil for sinus relief.",
+                "Drink a tea made from dried ginger and black pepper to reduce congestion.",
+                "Apply a paste of cinnamon and honey on the forehead for sinus pain relief."
+            ]
+        },
+        {
+            "name": "Migraine",
+            "remedy": [
+                "Apply peppermint or lavender oil to the temples and massage gently.",
+                "Drink ginger tea to reduce nausea and headache symptoms.",
+                "Chew a few fresh basil leaves or inhale basil-infused steam for relief."
+            ]
+        },
+        {
+            "name": "Bronchitis",
+            "remedy": [
+                "Boil a handful of tulsi (holy basil) leaves in water for 10 minutes.",
+                "Add a teaspoon of honey and drink this tea twice daily to ease breathing.",
+                "Inhale steam with eucalyptus oil to relieve congestion."
+            ]
+        },
+        {
+            "name": "Obesity",
+            "remedy": [
+                "Drink a cup of warm lemon water with honey every morning on an empty stomach.",
+                "Consume green tea with ginger twice daily to boost metabolism.",
+                "Include fresh curry leaves in your diet to aid weight loss."
+            ]
+        },
+        {
+            "name": "Diabetes",
+            "remedy": [
+                "Soak 1 tablespoon of fenugreek seeds in water overnight and drink the water in the morning.",
+                "Chew a few fresh neem leaves daily to regulate blood sugar levels.",
+                "Drink bitter gourd juice on an empty stomach for better glucose control."
+            ]
+        },
+        {
+            "name": "Weak Immunity",
+            "remedy": [
+                "Boil giloy (Tinospora cordifolia) stem in water and drink as herbal tea.",
+                "Consume a mixture of turmeric, honey, and black pepper daily.",
+                "Drink fresh amla (Indian gooseberry) juice for a vitamin C boost."
+            ]
+        },
+        {
+            "name": "Depression",
+            "remedy": [
+                "Drink chamomile tea before bed to improve mood and relaxation.",
+                "Consume ashwagandha powder with warm milk daily to reduce stress.",
+                "Inhale lavender essential oil for calming effects."
+            ]
+        },
+        {
+            "name": "Anxiety",
+            "remedy": [
+                "Brew a tea with dried valerian root and drink before sleeping.",
+                "Chew a few fresh tulsi leaves in the morning for a calming effect.",
+                "Drink warm nutmeg-infused milk to reduce anxiety symptoms."
+            ]
+        },
+        {
+            "name": "Stress",
+            "remedy": [
+                "Drink a cup of green tea with Brahmi (Bacopa monnieri) leaves for mental clarity.",
+                "Take a warm bath infused with lavender or sandalwood oil for relaxation.",
+                "Practice deep breathing while sipping on a cup of ashwagandha tea."
+            ]
+        },
+        {
+            "name": "Fatigue",
+            "remedy": [
+                "Drink ginseng tea to boost energy and fight tiredness.",
+                "Consume dates and almonds soaked overnight for natural energy.",
+                "Drink lemon and honey water to stay hydrated and energized."
+            ]
+        },
+        {
+            "name": "Hair Loss",
+            "remedy": [
+                "Massage the scalp with warm coconut oil mixed with amla (Indian gooseberry) juice.",
+                "Apply an onion juice and aloe vera gel mask to the scalp for hair growth.",
+                "Drink curry leaf juice regularly to strengthen hair follicles."
+            ]
+        },
+        {
+            "name": "Dark Circles",
+            "remedy": [
+                "Apply fresh cucumber slices over the eyes for 15 minutes daily.",
+                "Massage almond oil around the eyes before sleeping for better circulation.",
+                "Apply a paste of turmeric and milk under the eyes to reduce pigmentation."
+            ]
+        },
+        {
+            "name": "Pimples/Acne",
+            "remedy": [
+                "Apply fresh aloe vera gel on the affected area and leave it overnight.",
+                "Make a paste using neem leaves and turmeric, apply it to the face, and rinse after 15 minutes.",
+                "Drink a glass of coriander juice daily to purify the blood and prevent acne."
+            ]
+        },
+        {
+            "name": "Skin Dryness",
+            "remedy": [
+                "Massage coconut oil onto the skin before bathing to lock in moisture.",
+                "Apply a paste of mashed banana and honey on dry skin for 20 minutes before rinsing.",
+                "Drink plenty of water and consume flaxseed or chia seeds for better skin hydration."
+            ]
+        },
+        {
+            "name": "Eczema",
+            "remedy": [
+                "Apply neem oil to the affected skin area twice daily for relief.",
+                "Soak in an oatmeal and chamomile bath to soothe irritation.",
+                "Drink turmeric milk daily to reduce inflammation from within."
+            ]
+        },
+        {
+            "name": "Psoriasis",
+            "remedy": [
+                "Apply a paste made from aloe vera gel and turmeric on affected areas.",
+                "Massage the skin with coconut oil to reduce scaling and irritation.",
+                "Drink bitter gourd juice mixed with a teaspoon of honey to cleanse the system."
+            ]
+        },
+        {
+            "name": "Stomach Ulcers",
+            "remedy": [
+                "Drink fresh cabbage juice daily to promote healing.",
+                "Consume licorice root tea to soothe the stomach lining.",
+                "Eat raw honey on an empty stomach to reduce ulcer pain and aid recovery."
+            ]
+        },
+        {
+            "name": "Food Poisoning",
+            "remedy": [
+                "Drink ginger tea to relieve nausea and stomach discomfort.",
+                "Consume a mixture of basil juice and honey to fight infection.",
+                "Take activated charcoal or crushed fennel seeds with warm water to absorb toxins."
+            ]
+        },
+        {
+            "name": "Kidney Stones",
+            "remedy": [
+                "Drink a glass of fresh pomegranate juice daily to prevent stone formation.",
+                "Boil basil leaves in water and drink it with honey to dissolve kidney stones.",
+                "Consume barley water regularly to flush out toxins from the kidneys."
+            ]
+        },
+        {
+            "name": "Urinary Tract Infection (UTI)",
+            "remedy": [
+                "Drink cranberry juice to prevent bacterial growth in the urinary tract.",
+                "Boil coriander seeds in water, strain, and drink it to cleanse the urinary system.",
+                "Consume fresh coconut water daily to reduce infection and irritation."
+            ]
+        },
+        {
+            "name": "Gallstones",
+            "remedy": [
+                "Drink a mixture of apple cider vinegar and warm water daily to dissolve stones.",
+                "Consume dandelion tea to support gallbladder health.",
+                "Take turmeric and black pepper in warm milk to reduce gallstone pain."
+            ]
+        },
+        {
+            "name": "Liver Detoxification",
+            "remedy": [
+                "Drink fresh aloe vera juice in the morning for liver cleansing.",
+                "Consume milk thistle tea regularly to protect liver function.",
+                "Add turmeric to your diet to aid in liver detoxification and reduce inflammation."
+            ]
+        },
+        {
+            "name": "Jaundice",
+            "remedy": [
+                "Drink fresh sugarcane juice daily to support liver function.",
+                "Consume a mixture of turmeric and warm water to aid liver detoxification.",
+                "Eat papaya leaves paste to enhance liver recovery."
+            ]
+        },
+        {
+            "name": "Hypothyroidism",
+            "remedy": [
+                "Consume ashwagandha tea daily to support thyroid hormone balance.",
+                "Eat soaked walnuts and flaxseeds to improve thyroid function.",
+                "Drink warm ginger tea to boost metabolism and circulation."
+            ]
+        },
+        {
+            "name": "Hyperthyroidism",
+            "remedy": [
+                "Drink bugleweed tea to help regulate thyroid activity.",
+                "Consume lemon balm tea to soothe the nervous system and reduce hyperthyroid symptoms.",
+                "Avoid iodine-rich foods like seaweed and dairy to maintain hormonal balance."
+            ]
+        },
+        {
+            "name": "PCOS (Polycystic Ovary Syndrome)",
+            "remedy": [
+                "Drink spearmint tea twice a day to balance hormones.",
+                "Consume cinnamon tea to improve insulin sensitivity and regulate periods.",
+                "Take flaxseed powder with warm water to maintain hormonal balance."
+            ]
+        },
+        {
+            "name": "Menstrual Cramps",
+            "remedy": [
+                "Drink warm ginger tea to relieve pain and inflammation.",
+                "Massage the lower abdomen with warm sesame oil for relief.",
+                "Consume chamomile tea to relax muscles and reduce cramping."
+            ]
+        },
+        {
+            "name": "Irregular Periods",
+            "remedy": [
+                "Drink warm cinnamon tea daily to regulate the menstrual cycle.",
+                "Consume aloe vera juice with honey on an empty stomach for hormonal balance.",
+                "Take turmeric milk before bedtime to improve blood circulation and regulate periods."
+            ]
+        },
+        {
+            "name": "Menopause Symptoms",
+            "remedy": [
+                "Drink sage tea to reduce hot flashes and night sweats.",
+                "Consume black cohosh tea to balance hormone levels naturally.",
+                "Include flaxseeds in the diet to support estrogen production."
+            ]
+        },
+        {
+            "name": "Eye Strain",
+            "remedy": [
+                "Apply cold rose water-soaked cotton pads to the eyes for 10 minutes.",
+                "Drink carrot and spinach juice to improve eye health.",
+                "Blink frequently and massage the temples with almond oil to relax the eyes."
+            ]
+        },
+        {
+            "name": "Poor Vision",
+            "remedy": [
+                "Consume a mixture of Triphala powder with warm water before sleeping.",
+                "Drink fresh amla (Indian gooseberry) juice daily to strengthen eyesight.",
+                "Massage the eyelids with pure castor oil before bedtime."
+            ]
+        },
+        {
+            "name": "Ear Infection",
+            "remedy": [
+                "Warm garlic oil and put a few drops in the infected ear for pain relief.",
+                "Apply basil leaf juice drops into the ear to reduce infection.",
+                "Use a warm compress around the ear to ease discomfort and swelling."
+            ]
+        },
+        {
+            "name": "Toothache",
+            "remedy": [
+                "Apply clove oil directly to the affected tooth for pain relief.",
+                "Chew raw guava leaves to reduce swelling and infection.",
+                "Rinse the mouth with warm salt water to kill bacteria."
+            ]
+        },
+        {
+            "name": "Gum Disease",
+            "remedy": [
+                "Rinse with neem water daily to strengthen gums.",
+                "Massage gums with a mixture of turmeric and mustard oil.",
+                "Chew basil leaves to prevent bacterial infections."
+            ]
+        },
+        {
+            "name": "Bad Breath",
+            "remedy": [
+                "Chew fresh parsley or mint leaves to neutralize odors.",
+                "Drink a mixture of fennel seeds and warm water to aid digestion.",
+                "Gargle with warm salt water to eliminate bacteria from the mouth."
+            ]
+        },
+        {
+            "name": "Tonsillitis",
+            "remedy": [
+                "Gargle with warm turmeric and salt water twice daily.",
+                "Drink ginger tea with honey to soothe the throat.",
+                "Chew on raw basil leaves to reduce inflammation."
+            ]
+        },
+        {
+            "name": "Vertigo",
+            "remedy": [
+                "Drink a glass of ginger tea to reduce dizziness.",
+                "Inhale peppermint oil to ease nausea and balance the senses.",
+                "Massage lavender oil onto the temples for relaxation."
+            ]
+        },
+        {
+            "name": "Cold Sores",
+            "remedy": [
+                "Apply aloe vera gel to the affected area for faster healing.",
+                "Dab raw honey on cold sores to reduce inflammation.",
+                "Use a paste of licorice root and water as a natural antiviral treatment."
+            ]
+        },
+        {
+            "name": "Sunburn",
+            "remedy": [
+                "Apply aloe vera gel to soothe burned skin.",
+                "Place cool chamomile tea bags on the affected area.",
+                "Use a paste of cucumber and yogurt for instant relief."
+            ]
+        },
+        {
+            "name": "Heat Stroke",
+            "remedy": [
+                "Drink coriander juice mixed with sugar to cool the body.",
+                "Consume raw onion juice to prevent heat exhaustion.",
+                "Apply sandalwood paste on the forehead to reduce body temperature."
+            ]
+        },
+        {
+            "name": "Dehydration",
+            "remedy": [
+                "Drink coconut water to restore lost electrolytes.",
+                "Consume a mixture of lemon juice, honey, and salt in water.",
+                "Eat water-rich fruits like watermelon and cucumber to stay hydrated."
+            ]
+        },
+        {
+            "name": "Bloating",
+            "remedy": [
+                "Drink warm ginger tea to improve digestion and reduce bloating.",
+                "Chew fennel seeds after meals to relieve gas buildup.",
+                "Consume a mixture of ajwain (carom seeds) and black salt with warm water."
+            ]
+        },
+        {
+            "name": "Gas and Flatulence",
+            "remedy": [
+                "Drink peppermint tea to relax the digestive tract.",
+                "Chew a few cumin seeds after meals to prevent excessive gas.",
+                "Consume a mixture of asafoetida (hing) and warm water for relief."
+            ]
+        },
+        {
+            "name": "Appendicitis (Symptom Relief)",
+            "remedy": [
+                "Drink buttermilk with a pinch of turmeric for digestive support.",
+                "Consume basil tea to reduce inflammation and discomfort.",
+                "Apply a warm castor oil pack to the abdomen for pain relief."
+            ]
+        },
+        {
+            "name": "IBS (Irritable Bowel Syndrome)",
+            "remedy": [
+                "Drink chamomile tea to calm the digestive system.",
+                "Consume aloe vera juice to soothe intestinal irritation.",
+                "Eat soaked flaxseeds to regulate bowel movements."
+            ]
+        },
+        {
+            "name": "Colitis",
+            "remedy": [
+                "Drink slippery elm tea to coat and protect the intestines.",
+                "Consume turmeric milk to reduce inflammation in the colon.",
+                "Eat papaya to aid digestion and soothe the stomach lining."
+            ]
+        },
+        {
+            "name": "Piles (Hemorrhoids)",
+            "remedy": [
+                "Apply aloe vera gel to the affected area to reduce swelling.",
+                "Drink triphala powder mixed with warm water at bedtime for relief.",
+                "Eat fiber-rich foods like figs and flaxseeds to prevent constipation."
+            ]
+        },
+        {
+            "name": "Varicose Veins",
+            "remedy": [
+                "Massage the legs with horse chestnut oil to improve circulation.",
+                "Drink grape seed extract tea to strengthen veins.",
+                "Apply witch hazel compresses to reduce swelling and pain."
+            ]
+        },
+        {
+            "name": "Swollen Feet",
+            "remedy": [
+                "Soak feet in warm water with Epsom salt and neem leaves.",
+                "Drink dandelion tea to reduce water retention.",
+                "Massage swollen feet with coconut oil mixed with a few drops of peppermint oil."
+            ]
+        },
+        {
+            "name": "Joint Pain",
+            "remedy": [
+                "Apply a paste of turmeric and mustard oil to affected joints.",
+                "Drink ginger and fenugreek tea to reduce inflammation.",
+                "Massage joints with warm castor oil for pain relief."
+            ]
+        },
+        {
+            "name": "Muscle Cramps",
+            "remedy": [
+                "Drink banana and turmeric milk to prevent muscle cramps.",
+                "Massage affected muscles with sesame oil infused with garlic.",
+                "Consume magnesium-rich foods like spinach and almonds for muscle relaxation."
+            ]
+        },
+        {
+            "name": "Sprains and Strains",
+            "remedy": [
+                "Apply a turmeric and ginger paste to reduce swelling.",
+                "Wrap the affected area with a cloth soaked in warm castor oil.",
+                "Drink arnica tea to support healing and reduce inflammation."
+            ]
+        },
+        {
+            "name": "Osteoporosis",
+            "remedy": [
+                "Drink sesame seed milk to strengthen bones.",
+                "Consume moringa leaf powder daily for calcium and vitamin D.",
+                "Drink nettle tea to improve bone density."
+            ]
+        },
+        {
+            "name": "Gout",
+            "remedy": [
+                "Drink cherry juice to reduce uric acid levels.",
+                "Consume a mixture of fenugreek and turmeric in warm water.",
+                "Drink dandelion tea to support kidney function and uric acid removal."
+            ]
+        },
+        {
+            "name": "Sciatica",
+            "remedy": [
+                "Massage with warm St. John’s Wort oil to relieve nerve pain.",
+                "Drink turmeric and ginger tea for anti-inflammatory benefits.",
+                "Apply a hot compress with eucalyptus oil to ease muscle tension."
+            ]
+        },
+        {
+            "name": "Nerve Pain",
+            "remedy": [
+                "Drink ashwagandha tea to strengthen the nervous system.",
+                "Massage affected areas with warm camphor oil.",
+                "Consume a mixture of honey and turmeric to reduce nerve inflammation."
+            ]
+        },
+        {
+            "name": "Parkinson’s Symptoms Relief",
+            "remedy": [
+                "Drink green tea with Brahmi to support brain function.",
+                "Consume mucuna pruriens (Velvet Bean) for dopamine support.",
+                "Massage with sesame oil to improve muscle relaxation."
+            ]
+        },
+        {
+            "name": "Alzheimer’s Symptoms Relief",
+            "remedy": [
+                "Drink a daily mixture of turmeric and black pepper in warm milk.",
+                "Consume rosemary tea to enhance memory function.",
+                "Use coconut oil in the diet to support brain health."
+            ]
+        },
+        {
+            "name": "Epilepsy",
+            "remedy": [
+                "Drink valerian root tea to calm the nervous system.",
+                "Consume Brahmi (Bacopa Monnieri) extract for neuroprotection.",
+                "Massage the head with sandalwood oil to promote relaxation."
+            ]
+        },
+        {
+            "name": "Stroke Recovery Support",
+            "remedy": [
+                "Drink ginseng tea to improve cognitive function.",
+                "Consume garlic and ginger daily to enhance blood circulation.",
+                "Massage limbs with warm sesame oil to stimulate nerve function."
+            ]
+        },
+        {
+            "name": "High Cholesterol",
+            "remedy": [
+                "Drink fenugreek tea to lower LDL cholesterol levels.",
+                "Consume flaxseeds and cinnamon powder with warm water daily.",
+                "Use garlic and ginger regularly in meals to maintain heart health."
+            ]
+        },
+        {
+            "name": "Heartburn",
+            "remedy": [
+                "Drink aloe vera juice to soothe acid reflux.",
+                "Chew basil leaves after meals to neutralize stomach acid.",
+                "Consume a mixture of fennel seeds and warm water for digestion support."
+            ]
+        },
+        {
+            "name": "Heart Palpitations",
+            "remedy": [
+                "Drink hibiscus tea to regulate heart rhythm.",
+                "Consume ashwagandha to reduce stress-related palpitations.",
+                "Drink coconut water to maintain electrolyte balance."
+            ]
+        },
+        {
+            "name": "Chest Congestion",
+            "remedy": [
+                "Inhale steam infused with eucalyptus oil for mucus relief.",
+                "Drink ginger and honey tea to clear the respiratory tract.",
+                "Consume a mixture of black pepper, turmeric, and warm milk to ease congestion."
+            ]
+        },
+        {
+            "name": "Pneumonia Support",
+            "remedy": [
+                "Drink tulsi (holy basil) and ginger tea to support lung function.",
+                "Consume garlic-infused honey to fight infection.",
+                "Inhale steam with crushed carom seeds to open airways."
+            ]
+        },
+        {
+            "name": "Tuberculosis Support",
+            "remedy": [
+                "Drink a mixture of raw honey and turmeric to boost immunity.",
+                "Consume licorice tea to soothe the throat and lungs.",
+                "Eat drumstick leaves (moringa) to strengthen respiratory health."
+            ]
+        },
+        {
+            "name": "Smoking Cessation Support",
+            "remedy": [
+                "Drink ginseng tea to reduce nicotine cravings.",
+                "Chew licorice root to curb the urge to smoke.",
+                "Consume fennel seeds to cleanse the respiratory system."
+            ]
+        },
+        {
+            "name": "Alcohol Detoxification Support",
+            "remedy": [
+                "Drink milk thistle tea to support liver detoxification.",
+                "Consume dandelion root tea to flush out toxins.",
+                "Drink a warm infusion of turmeric and lemon to cleanse the body."
+            ]
+        },
+        {
+            "name": "Chronic Fatigue Syndrome",
+            "remedy": [
+                "Drink ashwagandha tea to boost energy levels.",
+                "Consume ginseng extract to combat fatigue.",
+                "Drink a smoothie with moringa powder for overall vitality."
+            ]
+        },
+        {
+            "name": "Adrenal Fatigue",
+            "remedy": [
+                "Drink licorice root tea to support adrenal function.",
+                "Consume a mixture of ashwagandha and warm milk before bedtime.",
+                "Eat soaked almonds and dates for natural energy."
+            ]
+        },
+        {
+            "name": "Post-Workout Recovery",
+            "remedy": [
+                "Drink coconut water to replenish lost electrolytes.",
+                "Consume turmeric and ginger tea to reduce muscle inflammation.",
+                "Massage sore muscles with sesame oil infused with camphor."
+            ]
+        },
+        {
+            "name": "Jet Lag",
+            "remedy": [
+                "Drink chamomile tea before bedtime to promote restful sleep.",
+                "Consume ashwagandha tea to help the body adapt to time changes.",
+                "Expose yourself to natural sunlight in the morning to reset the body clock."
+            ]
+        },
+        {
+            "name": "Nightmares & Sleep Disturbances",
+            "remedy": [
+                "Drink valerian root tea before bed for deep relaxation.",
+                "Place a few drops of lavender oil on your pillow for better sleep.",
+                "Consume nutmeg-infused warm milk to calm the nervous system."
+            ]
+        },
+        {
+            "name": "ADHD Support",
+            "remedy": [
+                "Drink Brahmi (Bacopa Monnieri) tea to improve focus and concentration.",
+                "Consume a mix of flaxseeds and walnuts for brain function support.",
+                "Use rosemary essential oil for aromatherapy to enhance alertness."
+            ]
+        },
+        {
+            "name": "Autism Spectrum Disorder Support",
+            "remedy": [
+                "Drink lemon balm tea to reduce anxiety and improve mood.",
+                "Consume a turmeric and black pepper mix for neuroprotection.",
+                "Use frankincense oil in aromatherapy to promote relaxation."
+            ]
+        },
+        {
+            "name": "Memory Loss",
+            "remedy": [
+                "Drink a blend of Brahmi and Gotu Kola tea daily to enhance memory.",
+                "Consume soaked almonds every morning for cognitive health.",
+                "Include rosemary and sage in your diet to improve recall."
+            ]
+        },
+        {
+            "name": "Cognitive Decline",
+            "remedy": [
+                "Drink green tea infused with ginseng for brain stimulation.",
+                "Consume turmeric milk daily for its anti-inflammatory properties.",
+                "Include omega-3-rich foods like flaxseeds and walnuts in your diet."
+            ]
+        },
+        {
+            "name": "Blood Circulation Issues",
+            "remedy": [
+                "Drink ginger tea to improve blood flow and prevent clotting.",
+                "Consume garlic and honey mixture to support cardiovascular health.",
+                "Massage with warm mustard oil to enhance circulation."
+            ]
+        },
+        {
+            "name": "Low Energy Levels",
+            "remedy": [
+                "Drink ashwagandha tea to reduce fatigue and boost stamina.",
+                "Consume dates and honey for a quick energy boost.",
+                "Drink a smoothie with spirulina and moringa powder for vitality."
+            ]
+        },
+        {
+            "name": "Restless Leg Syndrome",
+            "remedy": [
+                "Drink chamomile tea to relax the nervous system.",
+                "Massage legs with magnesium oil before bedtime.",
+                "Soak feet in warm water infused with Epsom salt and lavender oil."
+            ]
+        },
+        {
+            "name": "Poor Appetite",
+            "remedy": [
+                "Drink ginger tea before meals to stimulate digestion.",
+                "Chew fennel seeds to enhance appetite naturally.",
+                "Consume a mixture of honey and lemon juice before meals."
+            ]
+        },
+        {
+            "name": "Motion Sickness",
+            "remedy": [
+                "Chew fresh ginger slices or drink ginger tea before traveling.",
+                "Suck on peppermint candies or drink peppermint tea to soothe nausea.",
+                "Apply a drop of lavender or peppermint oil behind the ears for relaxation."
+            ]
+        },
+        {
+            "name": "Dry Eyes",
+            "remedy": [
+                "Apply a few drops of rose water to soothe and refresh the eyes.",
+                "Consume omega-3-rich foods like flaxseeds and walnuts for eye lubrication.",
+                "Drink bilberry tea to improve eye moisture and reduce dryness."
+            ]
+        },
+        {
+            "name": "Eye Infection",
+            "remedy": [
+                "Wash eyes with a cooled chamomile tea infusion to reduce irritation.",
+                "Apply a warm compress with turmeric-infused water to ease inflammation.",
+                "Use aloe vera gel around the eyes to reduce swelling and infection."
+            ]
+        },
+        {
+            "name": "Ear Wax Build-Up",
+            "remedy": [
+                "Apply a few drops of warm garlic oil in the ear to soften wax.",
+                "Use diluted hydrogen peroxide (with water) as an ear rinse.",
+                "Massage around the ear with warm olive oil to aid wax removal."
+            ]
+        },
+        {
+            "name": "Sinus Congestion",
+            "remedy": [
+                "Inhale steam infused with eucalyptus or peppermint oil to open sinuses.",
+                "Drink a mixture of ginger, honey, and lemon to reduce congestion.",
+                "Chew basil leaves to relieve sinus pressure naturally."
+            ]
+        },
+        {
+            "name": "Allergies (Seasonal)",
+            "remedy": [
+                "Drink nettle tea to reduce histamine levels in the body.",
+                "Consume local raw honey daily to build resistance to allergens.",
+                "Inhale steam with tulsi (holy basil) leaves for nasal relief."
+            ]
+        },
+        {
+            "name": "Hay Fever",
+            "remedy": [
+                "Drink turmeric milk to reduce allergy-induced inflammation.",
+                "Consume licorice root tea to soothe respiratory symptoms.",
+                "Rinse nasal passages with a saline solution to clear allergens."
+            ]
+        },
+        {
+            "name": "Cold Hands and Feet",
+            "remedy": [
+                "Drink ginger tea to improve blood circulation.",
+                "Massage hands and feet with warm sesame oil before bed.",
+                "Consume garlic and cayenne pepper to stimulate circulation."
+            ]
+        },
+        {
+            "name": "Excessive Sweating",
+            "remedy": [
+                "Drink sage tea to regulate sweat gland activity.",
+                "Apply diluted apple cider vinegar to the underarms for odor control.",
+                "Consume fennel seeds to naturally cool the body."
+            ]
+        },
+        {
+            "name": "Body Odor",
+            "remedy": [
+                "Drink wheatgrass juice to detoxify the body and reduce odor.",
+                "Apply a paste of neem leaves and turmeric to armpits for natural cleansing.",
+                "Use diluted lemon juice as a natural deodorant."
+            ]
+        },
+        {
+            "name": "Hiccups",
+            "remedy": [
+                "Drink a glass of cold water slowly to reset the diaphragm.",
+                "Chew on a small piece of fresh ginger to relax the throat muscles.",
+                "Consume a teaspoon of honey with warm water to soothe the nerves."
+            ]
+        },
+        {
+            "name": "Nasal Polyps",
+            "remedy": [
+                "Inhale steam infused with eucalyptus or peppermint oil to reduce inflammation.",
+                "Drink turmeric milk daily to help shrink nasal polyps naturally.",
+                "Rinse nasal passages with a saline solution to clear mucus buildup."
+            ]
+        },
+        {
+            "name": "Snoring",
+            "remedy": [
+                "Drink warm chamomile tea before bed to relax throat muscles.",
+                "Apply a few drops of eucalyptus oil on the pillow for easier breathing.",
+                "Consume a teaspoon of olive oil before bed to lubricate the throat."
+            ]
+        },
+        {
+            "name": "Sleep Apnea Support",
+            "remedy": [
+                "Drink valerian root tea to promote deeper sleep.",
+                "Use peppermint oil steam inhalation to open airways.",
+                "Chew tulsi (holy basil) leaves to reduce throat inflammation."
+            ]
+        },
+        {
+            "name": "Bedwetting in Adults",
+            "remedy": [
+                "Drink a mixture of cinnamon and honey before bedtime.",
+                "Consume warm milk with nutmeg to strengthen bladder control.",
+                "Avoid caffeine and excessive fluids in the evening."
+            ]
+        },
+        {
+            "name": "Bedwetting in Children",
+            "remedy": [
+                "Give a teaspoon of amla (Indian gooseberry) powder mixed with honey.",
+                "Massage the lower abdomen with warm mustard oil before sleep.",
+                "Boil fennel seeds in water and give it to the child twice a day."
+            ]
+        },
+        {
+            "name": "Liver Fatigue",
+            "remedy": [
+                "Drink dandelion root tea to support liver function.",
+                "Consume aloe vera juice daily for detoxification.",
+                "Include turmeric and black pepper in the diet to reduce liver stress."
+            ]
+        },
+        {
+            "name": "Blood Detoxification",
+            "remedy": [
+                "Drink neem tea to purify the blood and remove toxins.",
+                "Consume a mix of honey and lemon juice with warm water every morning.",
+                "Include beetroot juice in the diet to enhance blood purification."
+            ]
+        },
+        {
+            "name": "Parasite Cleanse",
+            "remedy": [
+                "Consume raw papaya seeds with honey to eliminate parasites.",
+                "Drink wormwood tea to naturally cleanse the digestive system.",
+                "Include cloves and black walnut in meals for parasite removal."
+            ]
+        },
+        {
+            "name": "Acid-Base Balance Support",
+            "remedy": [
+                "Drink coconut water to restore pH balance in the body.",
+                "Consume a mix of apple cider vinegar and warm water in the morning.",
+                "Include alkaline foods like spinach, cucumbers, and almonds in the diet."
+            ]
+        },
+        {
+            "name": "Chronic Inflammation",
+            "remedy": [
+                "Drink turmeric tea with black pepper to reduce inflammation.",
+                "Consume ginger-infused water daily for anti-inflammatory benefits.",
+                "Include omega-3-rich foods like flaxseeds and walnuts in your diet."
+            ]
+        },
+        {
+            "name": "Weak Bones",
+            "remedy": [
+                "Drink sesame seed milk for natural calcium.",
+                "Consume moringa leaf powder in soups or smoothies.",
+                "Soak and eat almonds daily for bone strength."
+            ]
+        },
+        {
+            "name": "Slow Healing Wounds",
+            "remedy": [
+                "Apply aloe vera gel directly on wounds to promote healing.",
+                "Use turmeric paste as a natural antiseptic.",
+                "Drink gotu kola tea to enhance tissue repair."
+            ]
+        },
+        {
+            "name": "Fungal Infections",
+            "remedy": [
+                "Apply neem oil to the affected area to kill fungi.",
+                "Soak in warm water with apple cider vinegar for skin fungal infections.",
+                "Consume garlic daily for antifungal properties."
+            ]
+        },
+        {
+            "name": "Yeast Infections",
+            "remedy": [
+                "Drink unsweetened cranberry juice to fight infections.",
+                "Apply coconut oil to the affected area for relief.",
+                "Consume probiotic-rich foods like yogurt and fermented vegetables."
+            ]
+        },
+        {
+            "name": "Athlete’s Foot",
+            "remedy": [
+                "Soak feet in warm water with tea tree oil.",
+                "Apply a paste of neem leaves to the infected areas.",
+                "Dust feet with turmeric powder to prevent fungal growth."
+            ]
+        },
+        {
+            "name": "Ringworm",
+            "remedy": [
+                "Apply fresh basil juice to the affected area.",
+                "Use a paste of turmeric and coconut oil for healing.",
+                "Apply raw garlic slices on the ringworm patches."
+            ]
+        },
+        {
+            "name": "Itchy Scalp",
+            "remedy": [
+                "Massage the scalp with neem oil to relieve itching.",
+                "Rinse hair with aloe vera gel mixed with water.",
+                "Apply a paste of hibiscus leaves for scalp nourishment."
+            ]
+        },
+        {
+            "name": "Baldness Prevention",
+            "remedy": [
+                "Massage the scalp with bhringraj oil to promote hair growth.",
+                "Consume amla (Indian gooseberry) daily for stronger hair.",
+                "Apply onion juice to the scalp to stimulate follicles."
+            ]
+        },
+        {
+            "name": "Brittle Nails",
+            "remedy": [
+                "Soak nails in warm olive oil for nourishment.",
+                "Consume horsetail tea for silica-rich nail strengthening.",
+                "Apply coconut oil to nails daily to prevent dryness."
+            ]
+        },
+        {
+            "name": "Split Ends",
+            "remedy": [
+                "Massage hair with coconut oil before washing.",
+                "Apply an aloe vera gel mask to the hair tips for hydration.",
+                "Rinse hair with hibiscus flower-infused water to strengthen strands."
+            ]
+        },
+        {
+            "name": "Wrinkles & Anti-Aging",
+            "remedy": [
+                "Apply rosehip oil to the skin for deep hydration and wrinkle reduction.",
+                "Drink green tea daily for its anti-aging antioxidants.",
+                "Use a face mask made from mashed papaya and honey for skin elasticity."
+            ]
+        },
+        {
+            "name": "Stretch Marks",
+            "remedy": [
+                "Massage the affected area with shea butter or cocoa butter.",
+                "Apply a mix of aloe vera and vitamin E oil to lighten stretch marks.",
+                "Drink plenty of water and consume collagen-rich foods like bone broth."
+            ]
+        },
+        {
+            "name": "Cellulite Reduction",
+            "remedy": [
+                "Massage the skin with coffee grounds mixed with coconut oil to improve circulation.",
+                "Drink dandelion tea to reduce water retention and detoxify the body.",
+                "Dry brush the skin daily to stimulate lymphatic drainage and smooth skin."
+            ]
+        },
+        {
+            "name": "Water Retention",
+            "remedy": [
+                "Drink parsley tea to flush excess fluids from the body.",
+                "Consume cucumber and watermelon for their natural diuretic properties.",
+                "Reduce salt intake and increase potassium-rich foods like bananas."
+            ]
+        },
+        {
+            "name": "Ankle Swelling",
+            "remedy": [
+                "Soak feet in warm water with Epsom salt to reduce swelling.",
+                "Drink ginger tea to improve circulation and reduce fluid buildup.",
+                "Elevate legs while resting to promote proper blood flow."
+            ]
+        },
+        {
+            "name": "Poor Kidney Function",
+            "remedy": [
+                "Drink nettle tea to support kidney function and detoxification.",
+                "Consume watermelon and cranberry juice for kidney health.",
+                "Avoid excessive salt and processed foods to reduce kidney strain."
+            ]
+        },
+        {
+            "name": "Gallbladder Support",
+            "remedy": [
+                "Drink dandelion root tea to stimulate bile production.",
+                "Consume apple cider vinegar diluted in water before meals.",
+                "Avoid fatty and processed foods to prevent gallbladder stress."
+            ]
+        },
+        {
+            "name": "Digestive Enzyme Deficiency",
+            "remedy": [
+                "Chew fennel seeds after meals to aid digestion.",
+                "Consume papaya or pineapple, which contain natural digestive enzymes.",
+                "Drink ginger tea before meals to stimulate digestive enzyme production."
+            ]
+        },
+        {
+            "name": "Poor Gut Health",
+            "remedy": [
+                "Drink probiotic-rich kefir or yogurt for gut flora balance.",
+                "Consume fermented foods like sauerkraut and kimchi for digestion.",
+                "Drink peppermint tea to soothe the digestive tract."
+            ]
+        },
+        {
+            "name": "Excessive Gas Production",
+            "remedy": [
+                "Drink warm fennel tea after meals to reduce bloating.",
+                "Chew a few carom seeds (ajwain) with a pinch of rock salt for digestion.",
+                "Consume ginger tea to soothe the stomach and prevent gas buildup."
+            ]
+        },
+        {
+            "name": "Fatty Liver",
+            "remedy": [
+                "Drink dandelion tea to help detoxify the liver.",
+                "Consume turmeric milk to reduce liver inflammation.",
+                "Include milk thistle extract in your diet for liver health support."
+            ]
+        },
+        {
+            "name": "Gallbladder Stones Prevention",
+            "remedy": [
+                "Drink apple cider vinegar diluted in warm water before meals.",
+                "Consume radish juice to promote bile production and prevent stones.",
+                "Include turmeric in meals to support gallbladder function."
+            ]
+        },
+        {
+            "name": "Spleen Health",
+            "remedy": [
+                "Drink warm ginger tea to improve digestion and support the spleen.",
+                "Consume licorice root tea for its spleen-strengthening properties.",
+                "Eat cooked root vegetables like carrots and sweet potatoes for nourishment."
+            ]
+        },
+        {
+            "name": "Blood Sugar Fluctuations",
+            "remedy": [
+                "Drink fenugreek tea to regulate blood sugar levels.",
+                "Consume cinnamon powder mixed with warm water in the morning.",
+                "Include bitter melon juice in your diet for better glucose control."
+            ]
+        },
+        {
+            "name": "Insulin Resistance",
+            "remedy": [
+                "Drink green tea daily to improve insulin sensitivity.",
+                "Consume flaxseeds and chia seeds for healthy omega-3s.",
+                "Use turmeric and black pepper in meals to reduce inflammation."
+            ]
+        },
+        {
+            "name": "Slow Metabolism",
+            "remedy": [
+                "Drink warm lemon water in the morning to kickstart metabolism.",
+                "Consume cayenne pepper in meals to boost fat-burning.",
+                "Include ginger and green tea in your diet for metabolic support."
+            ]
+        },
+        {
+            "name": "Hypoglycemia",
+            "remedy": [
+                "Eat small, frequent meals rich in complex carbohydrates.",
+                "Drink licorice root tea to help maintain blood sugar levels.",
+                "Consume almonds and dates for quick energy restoration."
+            ]
+        },
+        {
+            "name": "Adrenal Insufficiency",
+            "remedy": [
+                "Drink ashwagandha tea to support adrenal function and reduce stress.",
+                "Consume licorice root tea for energy and cortisol balance.",
+                "Increase intake of vitamin C-rich foods like amla (Indian gooseberry)."
+            ]
+        },
+        {
+            "name": "Thyroid Nodules",
+            "remedy": [
+                "Drink tulsi (holy basil) tea to support thyroid function.",
+                "Consume seaweed or kelp for natural iodine intake.",
+                "Use turmeric in meals to reduce inflammation in the thyroid."
+            ]
+        },
+        {
+            "name": "Hormonal Imbalance",
+            "remedy": [
+                "Drink spearmint tea to help balance hormones, especially in women.",
+                "Consume ashwagandha to support adrenal health and hormonal regulation.",
+                "Include flaxseeds and sesame seeds in your diet for natural phytoestrogens."
+            ]
+        },
+        {
+            "name": "Libido Boosting Support",
+            "remedy": [
+                "Drink ginseng tea to enhance energy and libido.",
+                "Consume maca root powder mixed with warm milk for hormonal balance.",
+                "Include saffron in meals to improve mood and sexual health."
+            ]
+        },
+        {
+            "name": "Erectile Dysfunction Support",
+            "remedy": [
+                "Drink ginkgo biloba tea to improve blood circulation.",
+                "Consume ashwagandha to reduce stress and support testosterone levels.",
+                "Include garlic and onions in your diet to enhance nitric oxide production."
+            ]
+        },
+        {
+            "name": "Premature Ejaculation Support",
+            "remedy": [
+                "Drink a warm cup of nutmeg tea to relax the nervous system.",
+                "Consume ashwagandha to improve stamina and endurance.",
+                "Use clove and cardamom in meals to enhance control and blood flow."
+            ]
+        },
+        {
+            "name": "Vaginal Dryness",
+            "remedy": [
+                "Drink fenugreek tea to naturally support estrogen levels.",
+                "Consume evening primrose oil to improve vaginal lubrication.",
+                "Apply aloe vera gel externally for natural hydration."
+            ]
+        },
+        {
+            "name": "Urinary Incontinence",
+            "remedy": [
+                "Drink horsetail tea to strengthen bladder muscles.",
+                "Consume pumpkin seeds for bladder control and prostate health.",
+                "Include cranberry juice to support urinary tract health."
+            ]
+        },
+        {
+            "name": "Bladder Control Issues",
+            "remedy": [
+                "Drink a mix of parsley tea to reduce frequent urination.",
+                "Consume triphala powder to strengthen pelvic muscles.",
+                "Include magnesium-rich foods like spinach and bananas in your diet."
+            ]
+        },
+        {
+            "name": "Prostate Health Support",
+            "remedy": [
+                "Drink saw palmetto tea to reduce prostate inflammation.",
+                "Consume pumpkin seeds for prostate function and urinary health.",
+                "Include stinging nettle root extract for natural hormone balance."
+            ]
+        },
+        {
+            "name": "Enlarged Prostate (BPH)",
+            "remedy": [
+                "Drink green tea to support prostate function and reduce enlargement.",
+                "Consume lycopene-rich foods like tomatoes to reduce prostate inflammation.",
+                "Include zinc-rich foods like sesame seeds to support prostate health."
+            ]
+        },
+        {
+            "name": "Kidney Infection Prevention",
+            "remedy": [
+                "Drink cranberry juice to prevent bacterial growth in the urinary tract.",
+                "Consume dandelion tea to detoxify and flush out toxins from the kidneys.",
+                "Include garlic in meals for its natural antibacterial properties."
+            ]
+        },
+        {
+            "name": "Gout Prevention",
+            "remedy": [
+                "Drink tart cherry juice to reduce uric acid levels.",
+                "Consume turmeric with black pepper to reduce inflammation.",
+                "Drink nettle tea to help flush out excess uric acid from the body."
+            ]
+        },
+        {
+            "name": "Rheumatism",
+            "remedy": [
+                "Drink ginger tea daily to relieve joint pain and stiffness.",
+                "Apply eucalyptus oil externally to reduce inflammation and pain.",
+                "Consume boswellia (Indian frankincense) to support joint health."
+            ]
+        },
+        {
+            "name": "Autoimmune Disorders Support",
+            "remedy": [
+                "Drink ashwagandha tea to modulate the immune system.",
+                "Consume turmeric milk to reduce chronic inflammation.",
+                "Include holy basil (tulsi) tea for its adaptogenic and immune-supporting properties."
+            ]
+        },
+        {
+            "name": "Blood Clot Prevention",
+            "remedy": [
+                "Drink green tea regularly to improve circulation and prevent clotting.",
+                "Consume garlic and ginger in meals to naturally thin the blood.",
+                "Include omega-3-rich foods like flaxseeds to support heart health."
+            ]
+        },
+        {
+            "name": "Weak Nervous System",
+            "remedy": [
+                "Drink brahmi tea to strengthen brain and nerve function.",
+                "Consume ashwagandha to reduce stress and support the nervous system.",
+                "Include almonds and walnuts in your diet to nourish nerve cells."
+            ]
+        },
+        {
+            "name": "Anxiety Attacks Prevention",
+            "remedy": [
+                "Drink chamomile tea to promote relaxation and reduce anxiety.",
+                "Consume valerian root tea before bedtime for calming effects.",
+                "Practice deep breathing and aromatherapy with lavender oil."
+            ]
+        },
+        {
+            "name": "Mood Swings Management",
+            "remedy": [
+                "Drink lemon balm tea to balance mood and reduce stress.",
+                "Consume dark chocolate or cacao to boost serotonin levels naturally.",
+                "Include saffron in meals to help regulate emotions."
+            ]
+        },
+        {
+            "name": "Seasonal Depression",
+            "remedy": [
+                "Drink St. John’s Wort tea to help manage seasonal mood changes.",
+                "Consume omega-3-rich foods like flaxseeds to support brain health.",
+                "Spend time in natural sunlight and practice light therapy."
+            ]
+        },
+        {
+            "name": "Chronic Pain Syndrome",
+            "remedy": [
+                "Drink turmeric tea to reduce chronic inflammation and pain.",
+                "Apply peppermint oil topically for muscle and joint relief.",
+                "Consume ginger in meals to naturally ease pain."
+            ]
+        },
+        {
+            "name": "Skin Bumps & Keratosis Pilaris",
+            "remedy": [
+                "Apply coconut oil mixed with turmeric to affected areas for soothing effects.",
+                "Drink dandelion tea to detoxify the skin and improve circulation.",
+                "Use oatmeal and honey paste as a natural exfoliant."
+            ]
+        },
+        {
+            "name": "Cold Urticaria (Allergy to Cold)",
+            "remedy": [
+                "Drink ginger tea to improve blood circulation and warm the body.",
+                "Apply aloe vera gel to soothe inflamed skin caused by cold exposure.",
+                "Consume turmeric with warm milk to reduce allergic reactions."
+            ]
+        },
+        {
+            "name": "Sun Allergy",
+            "remedy": [
+                "Apply a paste of sandalwood and rose water to soothe sun-exposed skin.",
+                "Drink green tea for its antioxidant properties to protect skin from sun damage.",
+                "Use coconut oil as a natural sunscreen and skin moisturizer."
+            ]
+        },
+        {
+            "name": "Bug Bites & Stings",
+            "remedy": [
+                "Apply a mixture of baking soda and water to reduce itching and swelling.",
+                "Use a fresh aloe vera gel application to soothe irritation and promote healing.",
+                "Rub basil leaves on the affected area to reduce inflammation."
+            ]
+        },
+        {
+            "name": "Poison Ivy Rash",
+            "remedy": [
+                "Apply witch hazel to reduce itching and inflammation.",
+                "Use an oatmeal bath to soothe irritated skin.",
+                "Drink chamomile tea to help reduce allergic reactions."
+            ]
+        },
+        {
+            "name": "Chapped Lips",
+            "remedy": [
+                "Apply coconut oil or shea butter to keep lips moisturized.",
+                "Use aloe vera gel to heal cracked lips.",
+                "Drink plenty of water and consume hydrating fruits like cucumber and watermelon."
+            ]
+        },
+        {
+            "name": "Cracked Heels",
+            "remedy": [
+                "Apply a paste of banana and honey to soften cracked heels.",
+                "Use coconut oil or castor oil before bed to deeply moisturize feet.",
+                "Soak feet in warm water with Epsom salt for healing and exfoliation."
+            ]
+        },
+        {
+            "name": "Nail Fungus",
+            "remedy": [
+                "Apply tea tree oil directly to the infected nail twice daily.",
+                "Soak nails in apple cider vinegar and water solution to prevent fungal growth.",
+                "Use garlic paste as an antifungal treatment for infected nails."
+            ]
+        },
+        {
+            "name": "Shingles Symptom Relief",
+            "remedy": [
+                "Apply neem oil to reduce pain and itching.",
+                "Drink turmeric milk to reduce inflammation and boost healing.",
+                "Use cool chamomile compresses to soothe irritated skin."
+            ]
+        },
+        {
+            "name": "Hernia Support",
+            "remedy": [
+                "Consume aloe vera juice to aid digestion and reduce acid reflux.",
+                "Drink chamomile tea to soothe gastrointestinal discomfort.",
+                "Practice gentle yoga stretches to strengthen abdominal muscles."
+            ]
+        },
+        {
+            "name": "Spinal Cord Health",
+            "remedy": [
+                "Drink ashwagandha tea to support nerve and spinal health.",
+                "Consume turmeric with black pepper to reduce inflammation in the spine.",
+                "Include calcium-rich herbs like moringa leaves in your diet for bone strength."
+            ]
+        },
+        {
+            "name": "Post-Surgical Recovery Support",
+            "remedy": [
+                "Drink turmeric milk to reduce inflammation and promote healing.",
+                "Consume aloe vera juice to boost the immune system.",
+                "Include ashwagandha tea in your diet to strengthen the body and reduce stress."
+            ]
+        },
+        {
+            "name": "Wound Infection Prevention",
+            "remedy": [
+                "Apply neem paste to wounds as a natural antiseptic.",
+                "Use honey as a dressing to prevent infection and speed up healing.",
+                "Wash wounds with diluted turmeric water to prevent bacterial growth."
+            ]
+        },
+        {
+            "name": "Low Blood Oxygen Levels",
+            "remedy": [
+                "Drink beetroot juice daily to improve oxygen levels in the blood.",
+                "Consume ginkgo biloba tea to enhance blood circulation.",
+                "Practice deep breathing and yoga to increase oxygen intake."
+            ]
+        },
+        {
+            "name": "High Triglycerides",
+            "remedy": [
+                "Drink fenugreek water in the morning to lower triglyceride levels.",
+                "Consume flaxseeds regularly to improve heart health.",
+                "Include garlic in meals to reduce cholesterol and triglyceride levels."
+            ]
+        },
+        {
+            "name": "Gallbladder Pain Relief",
+            "remedy": [
+                "Drink dandelion root tea to support gallbladder function.",
+                "Consume warm lemon water to aid digestion and reduce gallbladder stress.",
+                "Use peppermint tea to soothe gallbladder discomfort."
+            ]
+        },
+        {
+            "name": "Nervous System Detox",
+            "remedy": [
+                "Drink tulsi (holy basil) tea to calm the nervous system.",
+                "Consume Brahmi herb tea to enhance brain function and nerve health.",
+                "Use ashwagandha to reduce stress and strengthen nerves."
+            ]
+        },
+        {
+            "name": "Blood Cleansing Support",
+            "remedy": [
+                "Drink neem juice to purify the blood and prevent infections.",
+                "Consume a mixture of turmeric and warm water to remove toxins.",
+                "Include moringa leaves in your diet for detoxification."
+            ]
+        },
+        {
+            "name": "Hair Regrowth Stimulation",
+            "remedy": [
+                "Apply a paste of hibiscus leaves and flowers to the scalp for hair growth.",
+                "Use coconut oil infused with curry leaves to strengthen hair roots.",
+                "Massage the scalp with castor oil to promote hair regrowth."
+            ]
+        },
+        {
+            "name": "Iron Deficiency Prevention",
+            "remedy": [
+                "Drink nettle tea to boost iron levels naturally.",
+                "Consume spinach and moringa leaf soup for iron-rich nutrition.",
+                "Include dates and sesame seeds in your diet to prevent anemia."
+            ]
+        },
+        {
+            "name": "Nutrient Absorption Support",
+            "remedy": [
+                "Consume ginger tea before meals to enhance digestion and absorption.",
+                "Include black pepper in your diet to improve nutrient absorption.",
+                "Eat fermented foods like homemade yogurt for better gut health."
+            ]
+        },
+        {
+            "name": "Eye Floaters Prevention",
+            "remedy": [
+                "Consume bilberry extract to improve eye health and reduce floaters.",
+                "Drink carrot juice daily for vitamin A and better vision.",
+                "Include amla (Indian gooseberry) in your diet to strengthen eye muscles."
+            ]
+        },
+        {
+            "name": "Liver Support for Detox",
+            "remedy": [
+                "Drink milk thistle tea to cleanse and protect the liver.",
+                "Consume dandelion root tea to flush out toxins.",
+                "Include turmeric and black pepper in your meals for liver detoxification."
+            ]
+        },
+        {
+            "name": "Vitamin Deficiencies Support",
+            "remedy": [
+                "Consume moringa powder for a rich source of vitamins and minerals.",
+                "Drink fresh aloe vera juice to improve nutrient absorption.",
+                "Include spirulina in your diet for an all-in-one vitamin boost."
+            ]
+        },
+        {
+            "name": "Magnesium Deficiency Support",
+            "remedy": [
+                "Drink banana and spinach smoothie to boost magnesium levels.",
+                "Consume pumpkin seeds as a natural magnesium source.",
+                "Drink herbal chamomile tea to aid magnesium absorption."
+            ]
+        },
+        {
+            "name": "Calcium Deficiency Support",
+            "remedy": [
+                "Consume sesame seeds daily for natural calcium intake.",
+                "Drink ragi (finger millet) porridge to strengthen bones.",
+                "Include leafy greens like moringa and kale in your diet."
+            ]
+        },
+        {
+            "name": "Zinc Deficiency Support",
+            "remedy": [
+                "Eat pumpkin seeds to boost zinc levels naturally.",
+                "Consume fenugreek leaves in meals for better zinc absorption.",
+                "Drink nettle tea to support overall mineral balance."
+            ]
+        },
+        {
+            "name": "Hydration Imbalance",
+            "remedy": [
+                "Drink coconut water to restore electrolyte balance.",
+                "Consume watermelon juice to stay hydrated naturally.",
+                "Include cucumber and mint-infused water in your daily routine."
+            ]
+        },
+        {
+            "name": "Poor Posture Support",
+            "remedy": [
+                "Drink ashwagandha tea to relieve muscle tension and improve posture.",
+                "Apply eucalyptus oil to sore muscles for better alignment.",
+                "Perform yoga stretches and use herbal compresses for spinal support."
+            ]
+        },
+        {
+            "name": "Muscle Weakness Prevention",
+            "remedy": [
+                "Consume ginseng tea to enhance muscle strength and endurance.",
+                "Include almonds and walnuts in your diet for better muscle function.",
+                "Drink turmeric milk to reduce muscle inflammation and soreness."
+            ]
+        },
+        {
+            "name": "Chronic Stress Relief",
+            "remedy": [
+                "Drink tulsi (holy basil) tea to calm the nervous system.",
+                "Consume chamomile tea before bed for relaxation.",
+                "Practice deep breathing while using lavender essential oil."
+            ]
+        }
+    ]
+}
